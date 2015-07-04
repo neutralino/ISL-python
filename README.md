@@ -1,5 +1,7 @@
 # ISL-python
-(WORK IN PROGRESS) Solutions to "[An Introduction to Statistical Learning](http://www.statlearning.com)" in Python (instead of R).
+(WORK IN PROGRESS)
+
+Labs and Solutions to Applied Exercices to "[An Introduction to Statistical Learning](http://www.statlearning.com)" in Python (instead of R).
 
 * [Chapter 2 Lab - Introduction to Python and Numpy](http://nbviewer.ipython.org/github/neutralino/ISL-python/blob/master/chapter_2_statistical_learning/Lab-Introduction_to_Python.ipynb)
 * [Chapter 3 Lab - Linear Regression](http://nbviewer.ipython.org/github/neutralino/ISL-python/blob/master/chapter_3_linear_regression/Lab-Linear_Regression.ipynb)
